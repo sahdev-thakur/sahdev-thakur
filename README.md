@@ -1,21 +1,8 @@
-<div align="center">
-
 # Hi 👋, I'm Sahdev Thakur
 
 ### 💻 Full Stack Developer | B.Tech CSE Student
 
 **Java • Spring Boot • React • JavaScript • SQL • MySQL**
-
-<p>
-  <a href="https://github.com/sahdev-thakur">
-    <img src="https://komarev.com/ghpvc/?username=sahdev-thakur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/sahdev-thakur?tab=followers">
-    <img src="https://img.shields.io/github/followers/sahdev-thakur?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-</p>
-
-</div>
 
 ---
 
@@ -73,45 +60,37 @@ Full Stack    ██████████████░░░░░░
 
 ### Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ### Frontend
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
 ### Backend
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 </p>
 
 ### Database
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/sahdev-thakur">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahdev-thakur&repo=SmartEdu&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ### 🎓 SmartEdu
 
@@ -143,82 +122,67 @@ A personal finance application for tracking income, expenses and balance.
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahdev-thakur&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahdev-thakur&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahdev-thakur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahdev-thakur&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
 # ⭐ GitHub Highlights
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sahdev-thakur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahdev-thakur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
 
 ---
 
 # 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=sahdev-thakur&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sahdev-thakur&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 # 📈 Contribution Activity Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahdev-thakur&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahdev-thakur&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Contribution%20Activity" />
 
-</div>
+</p>
+
+> 📌 The official GitHub contribution calendar is also available directly on my GitHub profile.
 
 ---
 
 # 📅 Commit & Contribution Activity
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahdev-thakur&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&custom_title=Sahdev's%20GitHub%20Activity" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahdev-thakur&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
 
-</div>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sahdev-thakur/sahdev-thakur/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-> ⚠️ The snake requires a GitHub Actions workflow. We can set that up separately after the README is working.
+> ⚠️ Contribution Snake will be added using GitHub Actions after the profile README is working correctly.
 
 ---
 
 # 📌 GitHub Goals
 
-<div align="center">
-
-|                Goal                |     Status     |
-| :--------------------------------: | :------------: |
-|    🚀 Build Real-World Projects    | 🔄 In Progress |
-|  💻 Become a Full Stack Developer  | 🔄 In Progress |
-|            🧠 Master DSA           | 🔄 In Progress |
-|   ☕ Strengthen Java & Spring Boot  | 🔄 In Progress |
+| Goal                               | Status         |
+| ---------------------------------- | -------------- |
+| 🚀 Build Real-World Projects       | 🔄 In Progress |
+| 💻 Become a Full Stack Developer   | 🔄 In Progress |
+| 🧠 Master DSA                      | 🔄 In Progress |
+| ☕ Strengthen Java & Spring Boot    | 🔄 In Progress |
 | 🌐 Build & Deploy Web Applications | 🔄 In Progress |
-|    🤝 Contribute to Open Source    |     🎯 Goal    |
-
-</div>
+| 🤝 Contribute to Open Source       | 🎯 Goal        |
 
 ---
 
@@ -240,37 +204,29 @@ A personal finance application for tracking income, expenses and balance.
 
 # 📫 Connect With Me
 
-<div align="center">
+<p align="center">
+
+<a href="https://github.com/sahdev-thakur">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://linkedin.com/in/sahdev-thakur2006">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/minimalistic_sahdev">
-<img src="https://skillicons.dev/icons?i=instagram" width="45" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:thakursahdev03@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
-<p align="center">
-📧 <b>thakursahdev03@gmail.com</b>
 </p>
 
 ---
 
 # 📄 Resume
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/Resume-View%20Resume-blue?style=for-the-badge&logo=readthedocs" />
-</a>
-
-</div>
 
 > 🔗 Replace `#` with your actual resume URL after uploading your resume online.
 
@@ -282,10 +238,8 @@ A personal finance application for tracking income, expenses and balance.
 
 ---
 
-<div align="center">
-
 ### 🚀 Learn • Build • Improve • Repeat
 
-**Thanks for visiting my profile! ⭐**
-
-</div>
+<p align="center">
+<strong>Thanks for visiting my profile! ⭐</strong>
+</p>
