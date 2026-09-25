@@ -1,33 +1,291 @@
-<h1 align="center">Hi 👋, I'm sahdev-thakur</h1>
-<h3 align="center">Full Stack Developer | B.Tech CSE Student | Java, Spring Boot, React & SQL | Building Real-World Web Applications 🚀</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahdev-thakur" alt="sahdev-thakur" /></a> </p>
+# Hi 👋, I'm Sahdev Thakur
 
-- 🔭 I’m currently working on **SmartEdu – Smart College Academic Assistant**
+### 💻 Full Stack Developer | B.Tech CSE Student
 
-- 🌱 I’m currently learning **Java • DSA • Spring Boot • React.js • MySQL • Full Stack Development 🚀**
+**Java • Spring Boot • React • JavaScript • SQL • MySQL**
 
-- 🤝 I’m looking for help with **SmartEdu – Smart College Academic Assistant**
-
-- 💬 Ask me about **Java • DSA • Full Stack Development • Spring Boot • SQL • Web Projects 🚀**
-
-- 📫 How to reach me **thakursahdev03@gmail.com**
-
-- ⚡ Fun fact **☕ I enjoy turning ideas into code and learning something new every day. 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sahdev-thakur2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahdev-thakur2006" height="30" width="40" /></a>
-<a href="https://fb.com/sahdev thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahdev thakur" height="30" width="40" /></a>
-<a href="https://instagram.com/minimalistic_sahdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minimalistic_sahdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sahdev thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sahdev thakur" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/sahdev-thakur">
+    <img src="https://komarev.com/ghpvc/?username=sahdev-thakur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/sahdev-thakur?tab=followers">
+    <img src="https://img.shields.io/github/followers/sahdev-thakur?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahdev-thakur&show_icons=true&locale=en&layout=compact" alt="sahdev-thakur" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahdev-thakur&show_icons=true&locale=en" alt="sahdev-thakur" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahdev-thakur&" alt="sahdev-thakur" /></p>
+* 🎓 B.Tech Computer Science & Engineering student
+* 💻 Full Stack Developer focused on Java-based web development
+* 🚀 Currently building **SmartEdu – Smart College Academic Assistant**
+* 🌱 Learning **Spring Boot, React.js, DSA & Backend Development**
+* 🗄️ Working with **MySQL, SQL & REST APIs**
+* 💡 Interested in building practical, real-world applications
+* 🎯 Goal: Become a strong Full Stack Developer and build impactful software
+
+---
+
+## 🔭 Currently Working On
+
+### 🎓 SmartEdu — Smart College Academic Assistant
+
+A full-stack academic management platform designed to make college-related academic activities smarter and easier.
+
+**Current Stack:**
+
+`Java` `Spring Boot` `MySQL` `REST API` `React.js`
+
+**Planned Features:**
+
+* 🔐 Authentication & Authorization
+* 👨‍🎓 Student Management
+* 👨‍🏫 Faculty Management
+* 📚 Academic Management
+* 📊 Student Dashboard
+* 📝 Attendance Management
+* 📢 Notifications
+* 🔌 REST APIs
+
+> 🚧 Project is currently under active development.
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Java          ████████████████████
+DSA           ████████████████░░░░
+Spring Boot   ██████████████░░░░░░
+React.js      ████████████░░░░░░░░
+MySQL         ████████████████░░░░
+Full Stack    ██████████████░░░░░░
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
+</p>
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
+
+### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+</p>
+
+### Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/sahdev-thakur">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahdev-thakur&repo=SmartEdu&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### 🎓 SmartEdu
+
+**Smart College Academic Assistant**
+
+`Java` `Spring Boot` `MySQL` `React.js`
+
+A full-stack academic assistant focused on simplifying college academic management.
+
+---
+
+### 🎬 Movie Recommendation System
+
+`Python` `Machine Learning` `Flask` `HTML` `CSS` `JavaScript`
+
+A movie recommendation application that recommends movies based on similarity between movies.
+
+---
+
+### 💰 MoneyTrack — Personal Finance Tracker
+
+`HTML` `CSS` `JavaScript`
+
+A personal finance application for tracking income, expenses and balance.
+
+> 📌 More projects coming soon...
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahdev-thakur&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahdev-thakur&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+
+</div>
+
+---
+
+# ⭐ GitHub Highlights
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sahdev-thakur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=sahdev-thakur&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahdev-thakur&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 📅 Commit & Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sahdev-thakur&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&custom_title=Sahdev's%20GitHub%20Activity" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sahdev-thakur/sahdev-thakur/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> ⚠️ The snake requires a GitHub Actions workflow. We can set that up separately after the README is working.
+
+---
+
+# 📌 GitHub Goals
+
+<div align="center">
+
+|                Goal                |     Status     |
+| :--------------------------------: | :------------: |
+|    🚀 Build Real-World Projects    | 🔄 In Progress |
+|  💻 Become a Full Stack Developer  | 🔄 In Progress |
+|            🧠 Master DSA           | 🔄 In Progress |
+|   ☕ Strengthen Java & Spring Boot  | 🔄 In Progress |
+| 🌐 Build & Deploy Web Applications | 🔄 In Progress |
+|    🤝 Contribute to Open Source    |     🎯 Goal    |
+
+</div>
+
+---
+
+# 🤝 Looking to Collaborate On
+
+* 🌐 Full Stack Web Applications
+* ☕ Java & Spring Boot Projects
+* ⚛️ React.js Projects
+* 🤖 AI/ML Projects
+* 🌎 Open Source Projects
+
+---
+
+# 💬 Ask Me About
+
+`Java` `DSA` `Spring Boot` `React.js` `SQL` `MySQL` `Web Development`
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sahdev-thakur2006">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
+<a href="https://instagram.com/minimalistic_sahdev">
+<img src="https://skillicons.dev/icons?i=instagram" width="45" />
+</a>
+
+<a href="mailto:thakursahdev03@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45" />
+</a>
+
+</div>
+
+<p align="center">
+📧 <b>thakursahdev03@gmail.com</b>
+</p>
+
+---
+
+# 📄 Resume
+
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Resume-View%20Resume-blue?style=for-the-badge&logo=readthedocs" />
+</a>
+
+</div>
+
+> 🔗 Replace `#` with your actual resume URL after uploading your resume online.
+
+---
+
+# ⚡ Fun Fact
+
+> ☕ I enjoy turning ideas into code and learning something new every day.
+
+---
+
+<div align="center">
+
+### 🚀 Learn • Build • Improve • Repeat
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
