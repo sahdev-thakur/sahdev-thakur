@@ -238,6 +238,22 @@ A personal finance application for tracking income, expenses and balance.
 
 ---
 
+# 📌 GitHub Overview
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sahdev-thakur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahdev-thakur&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahdev-thakur&theme=tokyonight" width="95%"/>
+
+</p>
+
 # 📫 Connect With Me
 
 <div align="center">
