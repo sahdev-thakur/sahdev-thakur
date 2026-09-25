@@ -254,6 +254,14 @@ A personal finance application for tracking income, expenses and balance.
 
 </p>
 
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahdev-thakur&theme=tokyonight" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahdev-thakur&theme=tokyonight" height="180"/>
+
+</p>
+
 # 📫 Connect With Me
 
 <div align="center">
